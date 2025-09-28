@@ -1,0 +1,2350 @@
+[
+  {
+    "train_no": "16235",
+    "train_name": "TN MYS EXPRESS",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": null,
+        "scheduled_departure": "00:10",
+        "halt_minutes": null,
+        "day": 2,
+        "distance_km": 364
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "01:07",
+        "scheduled_departure": "01:10",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 423
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12674",
+    "train_name": "CBE MAS CHERAN EXPRESS",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "00:15",
+        "scheduled_departure": "00:20",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 101
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "01:07",
+        "scheduled_departure": "01:10",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 160
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "16525",
+    "train_name": "CAPE SBC EXPRESS",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "00:25",
+        "scheduled_departure": "00:30",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 610
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "01:27",
+        "scheduled_departure": "01:30",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 669
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "16528",
+    "train_name": "CAN YPR EXPRESS",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "00:40",
+        "scheduled_departure": "00:45",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 374
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "01:37",
+        "scheduled_departure": "01:40",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 434
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12643",
+    "train_name": "TVC NZM NIZAMUDDIN EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "00:50",
+        "scheduled_departure": "00:55",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 512
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "01:47",
+        "scheduled_departure": "01:50",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 571
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12682",
+    "train_name": "CBE MAS SUPERFAST EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "00:50",
+        "scheduled_departure": "00:55",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 101
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "01:47",
+        "scheduled_departure": "01:50",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 160
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12645",
+    "train_name": "ERS NZM MILLENNIUM  EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "00:50",
+        "scheduled_departure": "00:55",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 306
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "01:47",
+        "scheduled_departure": "01:50",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 365
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12624",
+    "train_name": "TVC MAS CHENNAI MAIL",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "01:17",
+        "scheduled_departure": "01:20",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 524
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "02:12",
+        "scheduled_departure": "02:15",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 583
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12686",
+    "train_name": "MAQ MAS SF  EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "01:30",
+        "scheduled_departure": "01:35",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 493
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "02:37",
+        "scheduled_departure": "02:40",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 552
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "16614",
+    "train_name": "CBE RJT EXPRESS",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "01:40",
+        "scheduled_departure": "01:45",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 101
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "02:37",
+        "scheduled_departure": "02:40",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 160
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "16856",
+    "train_name": "MAQ PDY EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "02:15",
+        "scheduled_departure": "02:20",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 506
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "03:50",
+        "scheduled_departure": "04:00",
+        "halt_minutes": 10,
+        "day": 2,
+        "distance_km": 565
+      },
+      {
+        "station_name": "Salem Town",
+        "station_code": "SXT",
+        "scheduled_arrival": "04:09",
+        "scheduled_departure": "04:10",
+        "halt_minutes": 1,
+        "day": 2,
+        "distance_km": 571
+      },
+      {
+        "station_name": "Attur",
+        "station_code": "ATU",
+        "scheduled_arrival": "05:09",
+        "scheduled_departure": "05:10",
+        "halt_minutes": 1,
+        "day": 2,
+        "distance_km": 621
+      },
+      {
+        "station_name": "Chinna Salem",
+        "station_code": "CHSM",
+        "scheduled_arrival": "05:34",
+        "scheduled_departure": "05:35",
+        "halt_minutes": 1,
+        "day": 2,
+        "distance_km": 653
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "16316",
+    "train_name": "KCVL MYS  EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "02:30",
+        "scheduled_departure": "02:35",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 505
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "03:32",
+        "scheduled_departure": "03:35",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 565
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "03358",
+    "train_name": "CBE BJU EXPRESS SPL",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "02:25",
+        "scheduled_departure": "02:35",
+        "halt_minutes": 10,
+        "day": 1,
+        "distance_km": 101
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "03:28",
+        "scheduled_departure": "03:30",
+        "halt_minutes": 2,
+        "day": 1,
+        "distance_km": 160
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12659",
+    "train_name": "NCJ SHM WKLY EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "02:50",
+        "scheduled_departure": "02:55",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 595
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "03:52",
+        "scheduled_departure": "03:55",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 654
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "16317",
+    "train_name": "CAPE SVDK HIMSAGAR EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "03:00",
+        "scheduled_departure": "03:05",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 610
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "04:02",
+        "scheduled_departure": "04:05",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 669
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "16787",
+    "train_name": "TEN SVDK  EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "02:50",
+        "scheduled_departure": "03:05",
+        "halt_minutes": 15,
+        "day": 2,
+        "distance_km": 458
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "04:02",
+        "scheduled_departure": "04:05",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 517
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12687",
+    "train_name": "MDU CDG EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "02:55",
+        "scheduled_departure": "03:05",
+        "halt_minutes": 10,
+        "day": 2,
+        "distance_km": 205
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "04:02",
+        "scheduled_departure": "04:05",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 264
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12507",
+    "train_name": "TVC SCL EXPRESS",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "03:10",
+        "scheduled_departure": "03:15",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 524
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "04:12",
+        "scheduled_departure": "04:15",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 583
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "22641",
+    "train_name": "TVC SHM BI WEEKLY  EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "03:10",
+        "scheduled_departure": "03:15",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 512
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "04:12",
+        "scheduled_departure": "04:15",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 571
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12258",
+    "train_name": "KCVL YPR GARIBRATH EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "03:10",
+        "scheduled_departure": "03:15",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 517
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "04:12",
+        "scheduled_departure": "04:15",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 577
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12696",
+    "train_name": "TVC   MAS SUPERFAST EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "03:40",
+        "scheduled_departure": "03:45",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 524
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "04:37",
+        "scheduled_departure": "04:40",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 583
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12698",
+    "train_name": "TVC MAS SF EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "04:00",
+        "scheduled_departure": "04:05",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 499
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "04:57",
+        "scheduled_departure": "05:00",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 558
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "22208",
+    "train_name": "TVC MAS SF AC EXPRESS",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "04:17",
+        "scheduled_departure": "04:20",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 512
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "05:07",
+        "scheduled_departure": "05:10",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 571
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "16319",
+    "train_name": "KCVL SMVB HUMSAFAR  EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "04:17",
+        "scheduled_departure": "04:20",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 517
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "05:07",
+        "scheduled_departure": "05:10",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 577
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "06407",
+    "train_name": "ED MTDM EXP SPL",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": null,
+        "scheduled_departure": "05:00",
+        "halt_minutes": null,
+        "day": 1,
+        "distance_km": 0
+      },
+      {
+        "station_name": "Cauvery",
+        "station_code": "CV",
+        "scheduled_arrival": "05:09",
+        "scheduled_departure": "05:10",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 4
+      },
+      {
+        "station_name": "Anangur",
+        "station_code": "ANU",
+        "scheduled_arrival": "05:19",
+        "scheduled_departure": "05:20",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 13
+      },
+      {
+        "station_name": "Sankaridurg",
+        "station_code": "SGE",
+        "scheduled_arrival": "05:29",
+        "scheduled_departure": "05:30",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 21
+      },
+      {
+        "station_name": "Mavelipalaiyam",
+        "station_code": "MVPM",
+        "scheduled_arrival": "05:37",
+        "scheduled_departure": "05:38",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 26
+      },
+      {
+        "station_name": "Magudanchavadi",
+        "station_code": "DC",
+        "scheduled_arrival": "05:49",
+        "scheduled_departure": "05:50",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 39
+      },
+      {
+        "station_name": "Virapandy Road",
+        "station_code": "VRPD",
+        "scheduled_arrival": "05:59",
+        "scheduled_departure": "06:00",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 49
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "06:19",
+        "scheduled_departure": "06:22",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 59
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "22878",
+    "train_name": "ERS HWH ANTYODAYA EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "05:10",
+        "scheduled_departure": "05:15",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 306
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "06:12",
+        "scheduled_departure": "06:15",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 365
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "22838",
+    "train_name": "ERS HTE DHARTI AABA EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "05:10",
+        "scheduled_departure": "05:15",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 306
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "06:12",
+        "scheduled_departure": "06:15",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 365
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "18568",
+    "train_name": "QLN VSKP WEEKLY EX",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "05:10",
+        "scheduled_departure": "05:15",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 459
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "06:12",
+        "scheduled_departure": "06:15",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 518
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "06046",
+    "train_name": "ERS MS  SF SPL",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "05:10",
+        "scheduled_departure": "05:20",
+        "halt_minutes": 10,
+        "day": 2,
+        "distance_km": 306
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "06:32",
+        "scheduled_departure": "06:35",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 365
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12790",
+    "train_name": "MAQ KCG EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "05:35",
+        "scheduled_departure": "05:40",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 506
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "06:32",
+        "scheduled_departure": "06:35",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 565
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "16566",
+    "train_name": "MAQ YPR EXPRESS",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "05:35",
+        "scheduled_departure": "05:40",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 506
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "06:32",
+        "scheduled_departure": "06:35",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 565
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "06044",
+    "train_name": "TVC MS FESTIVAL SPL",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "05:50",
+        "scheduled_departure": "06:00",
+        "halt_minutes": 10,
+        "day": 2,
+        "distance_km": 524
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "06:52",
+        "scheduled_departure": "06:55",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 583
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "22503",
+    "train_name": "VIVEK EXPRESS",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "05:55",
+        "scheduled_departure": "06:00",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 610
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "06:52",
+        "scheduled_departure": "06:55",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 669
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "06412",
+    "train_name": "ED JTJ  EXP SPL",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": null,
+        "scheduled_departure": "06:25",
+        "halt_minutes": null,
+        "day": 1,
+        "distance_km": 0
+      },
+      {
+        "station_name": "Cauvery",
+        "station_code": "CV",
+        "scheduled_arrival": "06:34",
+        "scheduled_departure": "06:35",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 4
+      },
+      {
+        "station_name": "Anangur",
+        "station_code": "ANU",
+        "scheduled_arrival": "06:44",
+        "scheduled_departure": "06:45",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 13
+      },
+      {
+        "station_name": "Sankaridurg",
+        "station_code": "SGE",
+        "scheduled_arrival": "06:54",
+        "scheduled_departure": "06:55",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 21
+      },
+      {
+        "station_name": "Mavelipalaiyam",
+        "station_code": "MVPM",
+        "scheduled_arrival": "07:04",
+        "scheduled_departure": "07:05",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 26
+      },
+      {
+        "station_name": "Magudanchavadi",
+        "station_code": "DC",
+        "scheduled_arrival": "07:14",
+        "scheduled_departure": "07:15",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 39
+      },
+      {
+        "station_name": "Virapandy Road",
+        "station_code": "VRPD",
+        "scheduled_arrival": "07:24",
+        "scheduled_departure": "07:25",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 49
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "07:42",
+        "scheduled_departure": "07:45",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 59
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "17316",
+    "train_name": "VLNK VSG EXPRESS",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "06:25",
+        "scheduled_departure": "06:35",
+        "halt_minutes": 10,
+        "day": 2,
+        "distance_km": 279
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "07:22",
+        "scheduled_departure": "07:25",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 338
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "22669",
+    "train_name": "ERS PATNA SF EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "06:30",
+        "scheduled_departure": "06:35",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 306
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "07:22",
+        "scheduled_departure": "07:25",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 365
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "19567",
+    "train_name": "VIVEK EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "06:25",
+        "scheduled_departure": "06:35",
+        "halt_minutes": 10,
+        "day": 2,
+        "distance_km": 435
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "07:22",
+        "scheduled_departure": "07:25",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 494
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "06548",
+    "train_name": "VLNK SBC SUMMER EXP SPL",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "06:15",
+        "scheduled_departure": "06:45",
+        "halt_minutes": 30,
+        "day": 2,
+        "distance_km": 279
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "07:40",
+        "scheduled_departure": "07:43",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 338
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "22666",
+    "train_name": "CBE KSRBENGALURU UDAY EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "07:05",
+        "scheduled_departure": "07:10",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 101
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "08:02",
+        "scheduled_departure": "08:05",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 160
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "20644",
+    "train_name": "CBE MAS  VANDE BHARAT EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "07:12",
+        "scheduled_departure": "07:15",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 101
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "07:58",
+        "scheduled_departure": "08:00",
+        "halt_minutes": 2,
+        "day": 1,
+        "distance_km": 160
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "22616",
+    "train_name": "CBE TPTY SF EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "07:30",
+        "scheduled_departure": "07:35",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 101
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "08:27",
+        "scheduled_departure": "08:30",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 160
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12680",
+    "train_name": "CBE MAS INTERCITY SF EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "07:45",
+        "scheduled_departure": "07:50",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 101
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "08:42",
+        "scheduled_departure": "08:45",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 160
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "22852",
+    "train_name": "MAQ   SRC VIVEK SUF EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "08:05",
+        "scheduled_departure": "08:10",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 506
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "09:02",
+        "scheduled_departure": "09:05",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 565
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "22638",
+    "train_name": "WEST COAST SF  EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "09:05",
+        "scheduled_departure": "09:10",
+        "halt_minutes": 5,
+        "day": 2,
+        "distance_km": 506
+      },
+      {
+        "station_name": "Sankaridurg",
+        "station_code": "SGE",
+        "scheduled_arrival": "09:34",
+        "scheduled_departure": "09:35",
+        "halt_minutes": 1,
+        "day": 2,
+        "distance_km": 527
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "10:12",
+        "scheduled_departure": "10:15",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 565
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "00657",
+    "train_name": "ERS SGTY PCET JPP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "09:20",
+        "scheduled_departure": "09:50",
+        "halt_minutes": 30,
+        "day": 2,
+        "distance_km": 306
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "11:00",
+        "scheduled_departure": "12:00",
+        "halt_minutes": 60,
+        "day": 2,
+        "distance_km": 365
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "11014",
+    "train_name": "CBE LTT EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "10:20",
+        "scheduled_departure": "10:25",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 101
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "11:20",
+        "scheduled_departure": "11:25",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 160
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12969",
+    "train_name": "CBE JAIPUR EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "10:50",
+        "scheduled_departure": "10:55",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 101
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "11:47",
+        "scheduled_departure": "11:50",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 160
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "06802",
+    "train_name": "CBE SA MEMU EXP SPL",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "11:12",
+        "scheduled_departure": "11:15",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 101
+      },
+      {
+        "station_name": "Cauvery",
+        "station_code": "CV",
+        "scheduled_arrival": "11:25",
+        "scheduled_departure": "11:26",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 105
+      },
+      {
+        "station_name": "Anangur",
+        "station_code": "ANU",
+        "scheduled_arrival": "11:38",
+        "scheduled_departure": "11:39",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 114
+      },
+      {
+        "station_name": "Sankaridurg",
+        "station_code": "SGE",
+        "scheduled_arrival": "11:49",
+        "scheduled_departure": "11:50",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 122
+      },
+      {
+        "station_name": "Mavelipalaiyam",
+        "station_code": "MVPM",
+        "scheduled_arrival": "11:58",
+        "scheduled_departure": "11:59",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 127
+      },
+      {
+        "station_name": "Magudanchavadi",
+        "station_code": "DC",
+        "scheduled_arrival": "12:09",
+        "scheduled_departure": "12:10",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 139
+      },
+      {
+        "station_name": "Virapandy Road",
+        "station_code": "VRPD",
+        "scheduled_arrival": "12:19",
+        "scheduled_departure": "12:20",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 150
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "13:00",
+        "scheduled_departure": null,
+        "halt_minutes": null,
+        "day": 1,
+        "distance_km": 160
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "00651",
+    "train_name": "CBF PTNR PCET",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "11:45",
+        "scheduled_departure": "13:00",
+        "halt_minutes": 75,
+        "day": 1,
+        "distance_km": 98
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "14:00",
+        "scheduled_departure": "15:30",
+        "halt_minutes": 90,
+        "day": 1,
+        "distance_km": 157
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "18190",
+    "train_name": "ERS TATA EXPRESS",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "13:40",
+        "scheduled_departure": "13:45",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 293
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "14:47",
+        "scheduled_departure": "14:50",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 352
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "13352",
+    "train_name": "ALLEPY DHANBAD EXPRESS",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "13:55",
+        "scheduled_departure": "14:00",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 363
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "14:57",
+        "scheduled_departure": "15:00",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 422
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12678",
+    "train_name": "ERS SBC SF EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "14:20",
+        "scheduled_departure": "14:25",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 306
+      },
+      {
+        "station_name": "Sankaridurg",
+        "station_code": "SGE",
+        "scheduled_arrival": "14:49",
+        "scheduled_departure": "14:50",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 327
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "15:32",
+        "scheduled_departure": "15:35",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 365
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "22620",
+    "train_name": "TEN BSP  SF EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "15:00",
+        "scheduled_departure": "15:05",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 656
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "16:07",
+        "scheduled_departure": "16:10",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 715
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "22816",
+    "train_name": "ERS BSP SF EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "15:00",
+        "scheduled_departure": "15:05",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 306
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "16:07",
+        "scheduled_departure": "16:10",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 365
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "16332",
+    "train_name": "TVC CSMT  EXPRESS",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "15:00",
+        "scheduled_departure": "15:05",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 512
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "16:07",
+        "scheduled_departure": "16:10",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 571
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "06846",
+    "train_name": "ED JTJ EXP SPL",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": null,
+        "scheduled_departure": "16:10",
+        "halt_minutes": null,
+        "day": 1,
+        "distance_km": 0
+      },
+      {
+        "station_name": "Cauvery",
+        "station_code": "CV",
+        "scheduled_arrival": "16:19",
+        "scheduled_departure": "16:20",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 4
+      },
+      {
+        "station_name": "Anangur",
+        "station_code": "ANU",
+        "scheduled_arrival": "16:31",
+        "scheduled_departure": "16:32",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 13
+      },
+      {
+        "station_name": "Sankaridurg",
+        "station_code": "SGE",
+        "scheduled_arrival": "16:39",
+        "scheduled_departure": "16:40",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 21
+      },
+      {
+        "station_name": "Mavelipalaiyam",
+        "station_code": "MVPM",
+        "scheduled_arrival": "16:49",
+        "scheduled_departure": "16:50",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 26
+      },
+      {
+        "station_name": "Magudanchavadi",
+        "station_code": "DC",
+        "scheduled_arrival": "16:59",
+        "scheduled_departure": "17:00",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 39
+      },
+      {
+        "station_name": "Virapandy Road",
+        "station_code": "VRPD",
+        "scheduled_arrival": "17:09",
+        "scheduled_departure": "17:10",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 49
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "17:57",
+        "scheduled_departure": "18:00",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 59
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12244",
+    "train_name": "CBE MAS  SHATABDI EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "16:32",
+        "scheduled_departure": "16:35",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 101
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "17:23",
+        "scheduled_departure": "17:25",
+        "halt_minutes": 2,
+        "day": 1,
+        "distance_km": 160
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12676",
+    "train_name": "CBE MAS KOVAI EXPRESS",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "16:47",
+        "scheduled_departure": "16:50",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 101
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "17:42",
+        "scheduled_departure": "17:45",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 160
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12512",
+    "train_name": "RAPTISAGAR EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "17:00",
+        "scheduled_departure": "17:05",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 505
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "18:02",
+        "scheduled_departure": "18:05",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 565
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "22648",
+    "train_name": "KCVL KRBA SF EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "17:00",
+        "scheduled_departure": "17:05",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 517
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "18:02",
+        "scheduled_departure": "18:05",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 577
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12522",
+    "train_name": "ERS BJU RAPTI SAGAR EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "17:00",
+        "scheduled_departure": "17:05",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 306
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "18:02",
+        "scheduled_departure": "18:05",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 365
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "22646",
+    "train_name": "KCVL INDB SF EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "17:00",
+        "scheduled_departure": "17:05",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 505
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "18:02",
+        "scheduled_departure": "18:05",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 565
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12647",
+    "train_name": "CBE NZM KONGU EXPRESS",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "17:45",
+        "scheduled_departure": "17:50",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 101
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "18:47",
+        "scheduled_departure": "18:50",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 160
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "17229",
+    "train_name": "TVC SC SABARI EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "18:10",
+        "scheduled_departure": "18:15",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 525
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "19:12",
+        "scheduled_departure": "19:15",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 584
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "17616",
+    "train_name": "MDU KCG EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "18:50",
+        "scheduled_departure": "19:00",
+        "halt_minutes": 10,
+        "day": 1,
+        "distance_km": 301
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "19:52",
+        "scheduled_departure": "19:55",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 360
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "22650",
+    "train_name": "ED MAS YERCAUD EXPRESS",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": null,
+        "scheduled_departure": "21:00",
+        "halt_minutes": null,
+        "day": 1,
+        "distance_km": 0
+      },
+      {
+        "station_name": "Sankaridurg",
+        "station_code": "SGE",
+        "scheduled_arrival": "21:24",
+        "scheduled_departure": "21:25",
+        "halt_minutes": 1,
+        "day": 1,
+        "distance_km": 21
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "21:57",
+        "scheduled_departure": "22:00",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 59
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "16382",
+    "train_name": "CAPE PUNE  EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "21:40",
+        "scheduled_departure": "21:45",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 610
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "22:47",
+        "scheduled_departure": "22:50",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 669
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12778",
+    "train_name": "KCVL  UBL SF EXPRESS",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "22:20",
+        "scheduled_departure": "22:25",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 504
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "23:22",
+        "scheduled_departure": "23:25",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 564
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12683",
+    "train_name": "ERS SMVB SF EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "22:20",
+        "scheduled_departure": "22:25",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 293
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "23:22",
+        "scheduled_departure": "23:25",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 352
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12625",
+    "train_name": "TVC NDLS KERALA SF EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "22:30",
+        "scheduled_departure": "22:35",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 524
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "23:32",
+        "scheduled_departure": "23:35",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 583
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "22678",
+    "train_name": "KCVL YPR SF EXPRESS",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "22:40",
+        "scheduled_departure": "22:45",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 517
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "23:42",
+        "scheduled_departure": "23:45",
+        "halt_minutes": 3,
+        "day": 1,
+        "distance_km": 577
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "22643",
+    "train_name": "ERS PNBE  BI WKLY SF EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "23:00",
+        "scheduled_departure": "23:05",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 306
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "00:02",
+        "scheduled_departure": "00:05",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 365
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12515",
+    "train_name": "CBE SCL EXPRESS",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "23:05",
+        "scheduled_departure": "23:10",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 101
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "00:02",
+        "scheduled_departure": "00:05",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 160
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "22640",
+    "train_name": "ALLP MAS SF EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "23:15",
+        "scheduled_departure": "23:20",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 363
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "00:12",
+        "scheduled_departure": "00:15",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 422
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "16231",
+    "train_name": "MV MYS EXPRESS",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "23:20",
+        "scheduled_departure": "23:30",
+        "halt_minutes": 10,
+        "day": 1,
+        "distance_km": 261
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "00:17",
+        "scheduled_departure": "00:20",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 321
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12602",
+    "train_name": "MAQ MAS CHENNAI MAIL",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "23:35",
+        "scheduled_departure": "23:40",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 493
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "00:37",
+        "scheduled_departure": "00:40",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 552
+      }
+    ],
+    "fetched_from": "trainspnrstatus"
+  },
+  {
+    "train_no": "12672",
+    "train_name": "MTP MAS NILGIRI EXP",
+    "from": "ED",
+    "to": "SA",
+    "segment_stops": [
+      {
+        "station_name": "Erode Junction",
+        "station_code": "ED",
+        "scheduled_arrival": "23:50",
+        "scheduled_departure": "23:55",
+        "halt_minutes": 5,
+        "day": 1,
+        "distance_km": 136
+      },
+      {
+        "station_name": "Salem Junction",
+        "station_code": "SA",
+        "scheduled_arrival": "00:52",
+        "scheduled_departure": "00:55",
+        "halt_minutes": 3,
+        "day": 2,
+        "distance_km": 195
+      }
+    ]
+  }
+]
